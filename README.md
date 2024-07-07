@@ -1,6 +1,6 @@
 # Getting Started
 
-## Note : Project Uses (Npm) throughout whole code.
+## Note: Project Uses (Npm) throughout the whole code.
 
 # Output
 
@@ -8,6 +8,7 @@
   <source src="https://raw.githubusercontent.com/yourusername/yourrepository/main/Helper/output_msf.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
