@@ -4,7 +4,7 @@
 
 # Output
 
-![Example](./example/example.svg)
+![Example](./Helper/output_msf.mp4)
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
