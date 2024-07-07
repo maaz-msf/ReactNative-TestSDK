@@ -5,7 +5,7 @@
 # Output
 
 <video width="600" controls>
-  <source src="https://raw.githubusercontent.com/yourusername/yourrepository/main/Helper/output_msf.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/maaz-msf/ReactNative-TestSDK/master/Helper/output_msf.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
