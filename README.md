@@ -4,10 +4,7 @@
 
 # Output
 
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/maaz-msf/ReactNative-TestSDK/master/Helper/output_msf.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](./Helper/thumb.png)](https://youtu.be/PVkXkhf3Sa8)
 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
