@@ -1,6 +1,6 @@
 # Getting Started
 
-## Step 2: Project Uses (Npx) throughout whole code.
+## Note : Project Uses (Npm) throughout whole code.
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
