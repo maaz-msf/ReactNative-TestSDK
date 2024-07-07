@@ -40,7 +40,7 @@ const LoginView = () => {
               name: "MaazArfi",
               bio: "I am a professional Android Developer and a software architect.",
               email: staticEmail,
-              phone: "+918931863425"
+              phone: "+918X3186XXXX"
             }
           },
         ],
