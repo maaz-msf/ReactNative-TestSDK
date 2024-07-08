@@ -37,7 +37,7 @@ You will need to start **React Native Paper** .
 npm install react-native-paper
 ```
 
-[![Power of Paper Lib](https://reactnativepaper.com/static/hero-image-01a2d6137437c97f0457469168e52a03.png)]
+![Power of Paper Lib](https://reactnativepaper.com/static/hero-image-01a2d6137437c97f0457469168e52a03.png)
 
 
 ## Step 1: Start the Metro Server
