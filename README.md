@@ -9,6 +9,35 @@
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+## Required dependencies
+
+First, you will need to start **Install**, the following libs.
+
+```bash
+# using npm
+npm install @react-navigation/native
+```
+
+```bash
+# using npm
+npm install react-native-screens react-native-safe-area-context
+```
+
+```bash
+# using npm
+npm install @react-navigation/native-stack
+```
+
+## For API view Design
+
+You will need to start **React Native Paper** .
+
+```bash
+# using npm
+npm install react-native-paper
+```
+
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
@@ -49,7 +78,7 @@ Now that you have successfully run the app, let's modify it.
 1. Open `App.js` in your editor it contains [React Navigation - Routes](https://reactnavigation.org/) you can add and modify those stack routes.
 2. Project uses **JSONPlaceholder**: APIs to modify these APIs open  `./Clazz/ProfileActivity.js`!
 
-   For **Design of API Response**: open <kbd>./Clazz/APIData.js</kbd> <kbd>R</kbd> in your editor and reload the app and see your changes!
+   For **Design of API Response**: open <kbd>./Clazz/APIData.js</kbd> in your editor and make changes and reload the app and see your changes!
 
 ## Congratulations! :tada:
 
